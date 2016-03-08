@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/christophe/Documents/NetBeansProjects/MythologyClicker/src/metier/Monde.java</file>
+            <file>file:/C:/Users/christophe/Documents/NetBeansProjects/MythologyClicker/src/image/Unite/bellerophon.jpeg.jpg</file>
+            <file>file:/C:/Users/christophe/Documents/NetBeansProjects/MythologyClicker/src/controller/FXMLDocumentController.java</file>
+            <file>file:/C:/Users/christophe/Documents/NetBeansProjects/MythologyClicker/src/metier/etat/Normal.java</file>
+            <file>file:/C:/Users/christophe/Documents/NetBeansProjects/MythologyClicker/src/metier/Boss.java</file>
+            <file>file:/C:/Users/christophe/Documents/NetBeansProjects/MythologyClicker/src/metier/Monstre.java</file>
+            <file>file:/C:/Users/christophe/Documents/NetBeansProjects/MythologyClicker/src/metier/etat/Etat.java</file>
+            <file>file:/C:/Users/christophe/Documents/NetBeansProjects/MythologyClicker/src/metier/sort/Sort.java</file>
+            <file>file:/C:/Users/christophe/Documents/NetBeansProjects/MythologyClicker/src/metier/Joueur.java</file>
+            <file>file:/C:/Users/christophe/Documents/NetBeansProjects/MythologyClicker/src/metier/Unite.java</file>
+            <file>file:/C:/Users/christophe/Documents/NetBeansProjects/MythologyClicker/src/launch/MythologyClicker.java</file>
+            <file>file:/C:/Users/christophe/Documents/NetBeansProjects/MythologyClicker/src/image/Unite/archer.jpeg</file>
+            <file>file:/C:/Users/christophe/Documents/NetBeansProjects/MythologyClicker/src/metier/Observateur.java</file>
+            <file>file:/C:/Users/christophe/Documents/NetBeansProjects/MythologyClicker/src/metier/Sauvegarde.java</file>
+            <file>file:/C:/Users/christophe/Documents/NetBeansProjects/MythologyClicker/src/metier/etat/Fatigue.java</file>
+            <file>file:/C:/Users/christophe/Documents/NetBeansProjects/MythologyClicker/src/image/Unite/hercule.jpeg</file>
+            <file>file:/C:/Users/christophe/Documents/NetBeansProjects/MythologyClicker/src/metier/Charger.java</file>
+            <file>file:/C:/Users/christophe/Documents/NetBeansProjects/MythologyClicker/src/image/Unite/thesee.jpeg</file>
+            <file>file:/C:/Users/christophe/Documents/NetBeansProjects/MythologyClicker/src/metier/Sujet.java</file>
+            <file>file:/C:/Users/christophe/Documents/NetBeansProjects/MythologyClicker/src/vue/UniteCell.java</file>
+            <file>file:/C:/Users/christophe/Documents/NetBeansProjects/MythologyClicker/src/image/Unite/ulysse.jpeg</file>
+            <file>file:/C:/Users/christophe/Documents/NetBeansProjects/MythologyClicker/src/metier/sort/FoudreDeZeus.java</file>
+        </group>
+    </open-files>
+</project-private>
