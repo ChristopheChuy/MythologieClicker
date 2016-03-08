@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.image.*?>
+<HBox    maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.60" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.FXMLDocumentController">
+    <VBox minWidth="425"   id="statistiqueJoueur"> 
+        <Label fx:id="or"  />
+        <Label fx:id="nbclic"  />
+        <Label fx:id="degatAuClic" />
+        <Label fx:id="pourcentageCrit"  />
+        <ListView  fx:id="viewUnites" />
+    </VBox>
+    <BorderPane>  
+        <bottom>
+            <ProgressBar id="statistiqueJoueur" progress="100"   fx:id="barreHp"/>       
+        </bottom>
+    
+        <top>
+            <VBox>
+            
+                <Label fx:id="niveau"  />
+                <Label fx:id="stage"/>
+            </VBox>
+        </top>
+    
+        <right>
+            <VBox > 
+                <Label fx:id="nomMonstre" BorderPane.alignment="TOP_CENTER" />
+                <Label fx:id="etatMonstre" BorderPane.alignment="BOTTOM_CENTER" />
+                <Button fx:id="muteMusiqueButton" onAction="#muteMusique"  mnemonicParsing="false" text="mute Musique" />
+                <Label fx:id="timerBoss" BorderPane.alignment="BASELINE_CENTER"/>  
+                <Button fx:id="quitter" onAction="#quitterApplication" BorderPane.alignment="BASELINE_CENTER" text="quitter"/>  
+            </VBox>
+        </right>
+     
+        <center >
+            <ImageView    fx:id="imageMonstre" fitHeight="200" fitWidth="200"  onMouseClicked="#tapeMonstre" >
+                <Image  url="image/IMGP0018.JPG"/>
+            </ImageView>
+        </center>
+        <left>
+            <VBox id="sort" fx:id="VBoxSort"/>
+        </left>
+    </BorderPane>
+</HBox>
